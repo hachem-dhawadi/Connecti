@@ -92,7 +92,7 @@ class _ProfilState extends State<Profil> {
                   ),
                   title: Text('Upload'),
                   content: Text(
-                    'There is no notification at this moment',
+                    'There is no notification at this moment please',
                   ),
                   actions: <Widget>[
                     ElevatedButton.icon(
