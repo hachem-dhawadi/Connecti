@@ -92,6 +92,8 @@ class _PostListState extends State<PostList> {
         ));
   }
 
+  
+
   Widget laodPosts() {
     return FutureBuilder(
       future: APIService.getPosts(),
