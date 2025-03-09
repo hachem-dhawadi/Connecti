@@ -78,6 +78,7 @@ class MyApp extends StatelessWidget {
               "postaddedit":(context) => PostAddEdit(),
               "adminfile":(context) => AdminFile(),
               "adminevent":(context) => AdminEvent(),
+              
             },
           ),
         ),
