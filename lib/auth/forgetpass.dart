@@ -53,7 +53,7 @@ class _ForgetpassState extends State<Forgetpass> {
                       //width: 600,
                     ),
                     Text(
-                      "An Email will send to your account\n to verify the same User ther you can\n click a link and reset your password",
+                      "An Email will send to your account\n to verify the same User ther you can\n click a link and reset your password ",
                       style: TextStyle(
                         fontSize: 16,
                         color: Color.fromARGB(255, 70, 75, 80),
