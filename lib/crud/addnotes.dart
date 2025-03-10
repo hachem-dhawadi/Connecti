@@ -119,7 +119,7 @@ class _AddNotesState extends State<AddNotes> {
                           "age": age,
                           "phone": phone
                         });
-
+                        //reset field empty
                         _nameController.text = '';
                         _cinController.text = '';
                         Navigator.of(context).pop();
